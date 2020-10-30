@@ -13,8 +13,8 @@ enemy_speed = 10
 
 Vermelho = (255,0,0)#Criando a cor vermelha
 Azul = (0,0,255)#Criando a cor azul
-background_color = (70,80,70)#Criando a cor preta
-Font_color = (0,0,0)
+background_color = (70,80,70)#Criando a de fundo
+Font_color = (0,0,0)#criando a cor da fonte
 
 player_pos = [400,520]#Define a posição, 400 = longitude na tela, 300  = latitude na tela
 player_size = 50 #Define como vai ser o tamanho do nosso objeto
